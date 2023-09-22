@@ -6,7 +6,7 @@ import org.bukkit.plugin.IllegalPluginAccessException;
 import java.util.UUID;
 
 /**
- * The PandorCoreAPI allows you to hook into FateUHC to either modify and grab data
+ * The PandorCoreAPI allows you to hook into PandorCore to either modify and grab data
  * or to add new features and events. Questions? https://discord.pandorianmc.net/
  */
 public class PandorCoreAPI {
