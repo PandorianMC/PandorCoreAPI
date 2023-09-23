@@ -81,7 +81,7 @@
         <dependency>
             <groupId>net.pandorianmc</groupId>
             <artifactId>PandorCore</artifactId>
-            <version>0.6.3</version>
+            <version>0.6.6</version>
         </dependency>
     </dependencies>
 
