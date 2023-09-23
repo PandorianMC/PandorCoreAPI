@@ -13,5 +13,6 @@ Replace LATEST with latest version in [Releases](https://repo.pandorianmc.net/#/
   <groupId>net.pandorianmc</groupId>
   <artifactId>PandorCoreAPI</artifactId>
   <version>LATEST</version>
+  <scope>provided</scope>
 </dependency>
 ```
