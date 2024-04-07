@@ -1,7 +1,7 @@
-package net.pandorianmc.bungee.api;
+package net.pandorianmc.velocity.api;
 
 import lombok.SneakyThrows;
-import net.pandorianmc.bungee.data.PandorianProxyPlayer;
+import net.pandorianmc.velocity.data.PandorianProxyPlayer;
 
 import java.util.UUID;
 
@@ -11,7 +11,7 @@ import java.util.UUID;
  */
 public class PandorCoreAPI {
 
-    public static PandorCoreAPI INSTANCE;
+    public static net.pandorianmc.bungee.api.PandorCoreAPI INSTANCE;
 
     /**
      * @return Is the PandorCoreAPI enabled and registered?
