@@ -11,7 +11,7 @@ import java.util.UUID;
  */
 public class PandorCoreAPI {
 
-    public static net.pandorianmc.bungee.api.PandorCoreAPI INSTANCE;
+    public static PandorCoreAPI INSTANCE;
 
     /**
      * @return Is the PandorCoreAPI enabled and registered?
