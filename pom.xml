@@ -6,7 +6,7 @@
 
     <groupId>net.pandorianmc</groupId>
     <artifactId>PandorCoreAPI</artifactId>
-    <version>1.3.16</version>
+    <version>1.3.18.2</version>
     <packaging>jar</packaging>
 
     <name>PandorCoreAPI</name>
@@ -76,7 +76,7 @@
         <dependency>
             <groupId>net.pandorianmc</groupId>
             <artifactId>PandorCore</artifactId>
-            <version>1.3.16</version>
+            <version>1.3.18.2</version>
         </dependency>
         <dependency>
             <!--> Velocity <-->
